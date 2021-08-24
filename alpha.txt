@@ -1,1 +1,2 @@
-#sFirst oberved in Kent
+#First oberved in Kent
+The mutation is N501Y
